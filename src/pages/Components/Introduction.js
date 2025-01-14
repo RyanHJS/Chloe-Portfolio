@@ -7,7 +7,7 @@ const Introduction = () => {
     <div>
       <div className="text-center pt-28 px-20">
         <h2 className="text-5xl pt-20 pb-8 text-teal-600 font-medium dark:text-teal-400 md:text-6xl">
-          Hi! My name is Ryan He,
+          Hi! My name is Chloe Jin,
         </h2>
         <div className="sm:flex justify-center items-center hidden">
           <TypeAnimation
@@ -27,12 +27,10 @@ const Introduction = () => {
         </div>
 
         <p className="text-md py-8 leading-8 md:text-xl max-w-2xl mx-auto text-gray-800 dark:text-gray-200">
-          I am a Software Development Engineer based in Vancouver, building ML pipelines and data infrastructure for credit adjudication systems. 
-          Passionate about leveraging machine learning to solve complex financial challenges.
+          I am a aspiring Software Development Engineer based in Vancouver
           <br />
           <br />
-          I have gained valuable
-          experiences at:
+          I enjoy
         </p>
 
         <p className="text-left text-md leading-8 text-gray-800 md:text-xl max-w-lg mx-auto dark:text-gray-200 border-l-4 border-teal-600 pl-4">
@@ -43,13 +41,10 @@ const Introduction = () => {
           >
             <span className="font-bold text-teal-600 dark:text-teal-400 border-teal-600">
               {" "}
-              &#x2022; RBC Borealis AI - building ML pipelines that power credit adjudication and deliver decisions 🧠
+              &#x2022; Hiking
               <br />
-              &#x2022; Activision Experience Optimization - Call of Duty: Black Ops 6 🔫
+              &#x2022; Baking
               <br />
-              &#x2022; Moneris Go Restaurant POS - Mobile Team 📱Moneris Go Restaurant POS - Mobile Team 📱
-              <br />
-              &#x2022; SAP Business Technology Platform - Software Logistics Team 👷‍♂️
             </span>
           </motion.div>
         </p>

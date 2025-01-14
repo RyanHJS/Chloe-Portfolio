@@ -14,7 +14,7 @@ const Navbar = ({ darkMode, setDarkMode }) => {
             top-0 fixed z-50 w-full">
 
                 <div className="container mx-auto flex items-center justify-between">
-                    <h1 className="font-burtons text-xl animate-bounce hidden sm:flex">Ryan He</h1>
+                    <h1 className="font-burtons text-xl animate-bounce hidden sm:flex">Chloe Jin</h1>
 
                     <ul className="items-center hidden sm:flex">
                         <li>
