@@ -41,10 +41,11 @@ const Introduction = () => {
           >
             <span className="font-bold text-teal-600 dark:text-teal-400 border-teal-600">
               {" "}
-              &#x2022; Hiking
+              &#x2022;Hiking
               <br />
-              &#x2022; Baking
+              &#x2022;Baking
               <br />
+              &#x2022;Photography
             </span>
           </motion.div>
         </p>
