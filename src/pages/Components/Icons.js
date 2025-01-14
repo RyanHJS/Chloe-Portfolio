@@ -12,17 +12,17 @@ const Icons = () => {
         <div className='py-10'>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
                 <motion.div whileInView={{ opacity: 1 }} whileHover={{ scale: 1.1 }} transition={{ duration: 0.5, type: 'tween' }}>
-                    <a href='https://www.linkedin.com/in/ryanhjs/' target="_blank">
+                    <a href='https://www.linkedin.com/in/chloe-jyl/' target="_blank">
                         <AiFillLinkedin className='cursor-pointer hover:bg-cyan-300 rounded-full' />
                     </a>
                 </motion.div>
                 <motion.div whileInView={{ opacity: 1 }} whileHover={{ scale: 1.1 }} transition={{ duration: 0.5, type: 'tween' }}>
-                    <a href='https://github.com/RyanHJS/' target="_blank rel=“noreferrer”">
+                    <a href='https://github.com/' target="_blank rel=“noreferrer”">
                         <AiFillGithub className='cursor-pointer hover:bg-cyan-300 rounded-full' />
                     </a>
                 </motion.div>
                 <motion.div whileInView={{ opacity: 1 }} whileHover={{ scale: 1.1 }} transition={{ duration: 0.5, type: 'tween' }}>
-                    <a href='mailto: ryanhe.2024@gmail.com' target="_blank rel=“noreferrer”">
+                    <a href='mailto: chloejin.cj@gmail.com' target="_blank rel=“noreferrer”">
                         <AiOutlineMail className='cursor-pointer hover:bg-cyan-300 rounded-full' />
                     </a>
                 </motion.div>
